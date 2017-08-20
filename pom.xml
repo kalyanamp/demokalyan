@@ -495,9 +495,7 @@
             </reporting>
         </profile>
     </profiles>
-</project>
-<project>   
- <distributionManagement>
+     <distributionManagement>
 
      <repository>
          <id>releases</id>
@@ -512,5 +510,4 @@
      </snapshotRepository>
 
 </distributionManagement>
-    
-  </project>
+</project>
